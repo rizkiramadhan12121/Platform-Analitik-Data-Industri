@@ -1,0 +1,5 @@
+[
+  {"id": "IP-001", "area_name": "Bekasi Timur", "status": "approved", "lat": -6.245, "lng": 107.005},
+  {"id": "IP-002", "area_name": "Karawang Barat", "status": "pending", "lat": -6.306, "lng": 107.275},
+  {"id": "IP-003", "area_name": "Surabaya Selatan", "status": "approved", "lat": -7.320, "lng": 112.740}
+]

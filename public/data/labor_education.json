@@ -1,0 +1,5 @@
+[
+  {"region": "Bekasi", "vocational_grad_per_year": 12000, "lat": -6.241, "lng": 106.992},
+  {"region": "Karawang", "vocational_grad_per_year": 6000, "lat": -6.322, "lng": 107.300},
+  {"region": "Surabaya", "vocational_grad_per_year": 15000, "lat": -7.257, "lng": 112.752}
+]

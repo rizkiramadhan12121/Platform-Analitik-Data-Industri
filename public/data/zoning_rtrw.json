@@ -1,0 +1,5 @@
+[
+  {"id": "Z-001", "name": "Zonasi Industri Bekasi", "zoning": "industri", "lat": -6.250, "lng": 107.020},
+  {"id": "Z-002", "name": "Zonasi Permukiman Karawang", "zoning": "permukiman", "lat": -6.320, "lng": 107.300},
+  {"id": "Z-003", "name": "Zonasi Campuran Surabaya", "zoning": "campuran", "lat": -7.250, "lng": 112.740}
+]

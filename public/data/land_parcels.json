@@ -1,0 +1,38 @@
+[
+  {
+    "id": "L-001",
+    "name": "Parsel A - Timur Cikarang",
+    "lat": -6.272,
+    "lng": 107.145,
+    "area_ha": 8.5,
+    "zoning": "industri",
+    "built_ratio": 0.2
+  },
+  {
+    "id": "L-002",
+    "name": "Parsel B - Utara Karawang",
+    "lat": -6.305,
+    "lng": 107.305,
+    "area_ha": 5.2,
+    "zoning": "campuran",
+    "built_ratio": 0.35
+  },
+  {
+    "id": "L-003",
+    "name": "Parsel C - Bekasi Barat",
+    "lat": -6.231,
+    "lng": 106.985,
+    "area_ha": 3.1,
+    "zoning": "permukiman",
+    "built_ratio": 0.6
+  },
+  {
+    "id": "L-004",
+    "name": "Parsel D - Selatan Cikarang",
+    "lat": -6.285,
+    "lng": 107.12,
+    "area_ha": 9.4,
+    "zoning": "industri",
+    "built_ratio": 0.15
+  }
+]

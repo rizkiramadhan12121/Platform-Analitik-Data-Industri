@@ -1,0 +1,5 @@
+[
+  {"id": "LH-001", "name": "Hub Logistik Cikarang", "type": "distribution", "lat": -6.270, "lng": 107.140},
+  {"id": "LH-002", "name": "Hub Logistik Karawang", "type": "distribution", "lat": -6.310, "lng": 107.290},
+  {"id": "LH-003", "name": "Hub Logistik Surabaya", "type": "distribution", "lat": -7.250, "lng": 112.730}
+]

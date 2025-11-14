@@ -1,0 +1,6 @@
+[
+  {"region": "Jawa Barat", "pdrb_triliun": 1900, "lat": -6.917, "lng": 107.619},
+  {"region": "Jawa Timur", "pdrb_triliun": 1700, "lat": -7.983, "lng": 112.621},
+  {"region": "DKI Jakarta", "pdrb_triliun": 2800, "lat": -6.210, "lng": 106.845},
+  {"region": "Sumatera Utara", "pdrb_triliun": 600, "lat": 3.595, "lng": 98.672}
+]

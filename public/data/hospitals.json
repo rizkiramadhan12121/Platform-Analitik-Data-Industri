@@ -1,0 +1,5 @@
+[
+  {"id": "H-001", "name": "RSUD Bekasi", "type": "public", "lat": -6.225, "lng": 107.000},
+  {"id": "H-002", "name": "RS Karawang", "type": "public", "lat": -6.314, "lng": 107.290},
+  {"id": "H-003", "name": "RSUD Dr. Soetomo", "type": "public", "lat": -7.281, "lng": 112.758}
+]

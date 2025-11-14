@@ -1,0 +1,5 @@
+[
+  {"id": "U-001", "name": "Sentra UMKM Cikarang", "sector": "Kuliner", "lat": -6.270, "lng": 107.140},
+  {"id": "U-002", "name": "Sentra UMKM Karawang", "sector": "Kerajinan", "lat": -6.310, "lng": 107.290},
+  {"id": "U-003", "name": "Sentra UMKM Surabaya", "sector": "Fashion", "lat": -7.265, "lng": 112.740}
+]

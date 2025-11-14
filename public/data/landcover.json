@@ -1,0 +1,5 @@
+[
+  {"id": "LC-001", "name": "Lahan Terbangun Bekasi", "cover": "built-up", "lat": -6.230, "lng": 106.990},
+  {"id": "LC-002", "name": "Pertanian Karawang", "cover": "agriculture", "lat": -6.340, "lng": 107.320},
+  {"id": "LC-003", "name": "RTH Surabaya", "cover": "green", "lat": -7.265, "lng": 112.735}
+]

@@ -1,0 +1,5 @@
+[
+  {"id": "W-001", "name": "IPA Bekasi Timur", "capacity_lps": 500, "lat": -6.245, "lng": 107.005},
+  {"id": "W-002", "name": "IPA Karawang Barat", "capacity_lps": 350, "lat": -6.306, "lng": 107.275},
+  {"id": "W-003", "name": "IPA Surabaya Utara", "capacity_lps": 700, "lat": -7.230, "lng": 112.740}
+]

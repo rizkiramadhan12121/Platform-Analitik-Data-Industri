@@ -1,0 +1,5 @@
+[
+  {"operator": "Telkomsel", "tech": "5G", "coverage_pct": 60, "lat": -6.210, "lng": 106.845},
+  {"operator": "XL", "tech": "4G", "coverage_pct": 85, "lat": -6.320, "lng": 107.300},
+  {"operator": "Indosat", "tech": "4G", "coverage_pct": 80, "lat": -7.257, "lng": 112.752}
+]

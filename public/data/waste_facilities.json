@@ -1,0 +1,5 @@
+[
+  {"id": "WF-001", "name": "TPST Bekasi", "type": "waste_station", "lat": -6.240, "lng": 106.990},
+  {"id": "WF-002", "name": "TPA Karawang", "type": "landfill", "lat": -6.330, "lng": 107.300},
+  {"id": "WF-003", "name": "IPAS Surabaya", "type": "waste_treatment", "lat": -7.270, "lng": 112.730}
+]

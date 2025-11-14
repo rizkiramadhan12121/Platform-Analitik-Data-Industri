@@ -1,0 +1,5 @@
+[
+  {"region": "Jawa Barat", "electricity_tariff_idr_per_kwh": 1450, "lat": -6.917, "lng": 107.619},
+  {"region": "Jawa Timur", "electricity_tariff_idr_per_kwh": 1400, "lat": -7.983, "lng": 112.621},
+  {"region": "DKI Jakarta", "electricity_tariff_idr_per_kwh": 1500, "lat": -6.210, "lng": 106.845}
+]

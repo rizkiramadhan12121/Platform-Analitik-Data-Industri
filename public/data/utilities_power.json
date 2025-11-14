@@ -1,0 +1,5 @@
+[
+  {"id": "P-001", "name": "GI Bekasi", "capacity_mva": 150, "lat": -6.240, "lng": 106.990},
+  {"id": "P-002", "name": "GI Karawang", "capacity_mva": 200, "lat": -6.315, "lng": 107.300},
+  {"id": "P-003", "name": "PLTU Cilegon", "capacity_mw": 600, "lat": -6.020, "lng": 106.070}
+]

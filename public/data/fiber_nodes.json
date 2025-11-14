@@ -1,0 +1,5 @@
+[
+  {"node_id": "FIB-01", "provider": "Telkom", "lat": -6.212, "lng": 106.820},
+  {"node_id": "FIB-02", "provider": "Icon+", "lat": -6.310, "lng": 107.290},
+  {"node_id": "FIB-03", "provider": "Biznet", "lat": -7.260, "lng": 112.740}
+]

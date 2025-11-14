@@ -1,0 +1,5 @@
+[
+  {"region": "Jakarta", "rainfall_mm": 2200, "lat": -6.200, "lng": 106.845},
+  {"region": "Karawang", "rainfall_mm": 2000, "lat": -6.320, "lng": 107.300},
+  {"region": "Surabaya", "rainfall_mm": 1800, "lat": -7.257, "lng": 112.752}
+]

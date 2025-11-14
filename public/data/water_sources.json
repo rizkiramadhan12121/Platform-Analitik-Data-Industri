@@ -1,0 +1,5 @@
+[
+  {"id": "WS-001", "name": "Sungai Bekasi", "type": "river", "lat": -6.240, "lng": 106.990},
+  {"id": "WS-002", "name": "Sungai Citarum", "type": "river", "lat": -6.360, "lng": 107.350},
+  {"id": "WS-003", "name": "Sungai Kalimas", "type": "river", "lat": -7.250, "lng": 112.740}
+]

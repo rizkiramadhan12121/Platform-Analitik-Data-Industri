@@ -1,0 +1,5 @@
+[
+  {"id": "WH-001", "name": "Gudang Logistik Bekasi", "capacity_m2": 12000, "lat": -6.240, "lng": 106.990},
+  {"id": "WH-002", "name": "Gudang Karawang Timur", "capacity_m2": 8000, "lat": -6.320, "lng": 107.310},
+  {"id": "WH-003", "name": "Gudang Surabaya Barat", "capacity_m2": 15000, "lat": -7.270, "lng": 112.670}
+]

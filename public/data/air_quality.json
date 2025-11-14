@@ -1,0 +1,5 @@
+[
+  {"station": "AQ-JKT-01", "aqi": 95, "lat": -6.210, "lng": 106.845},
+  {"station": "AQ-KRW-01", "aqi": 70, "lat": -6.320, "lng": 107.300},
+  {"station": "AQ-SBY-01", "aqi": 80, "lat": -7.245, "lng": 112.735}
+]

@@ -1,0 +1,5 @@
+[
+  {"area": "Bekasi", "price_idr_per_m2": 2500000, "lat": -6.241, "lng": 106.992},
+  {"area": "Karawang", "price_idr_per_m2": 1800000, "lat": -6.322, "lng": 107.300},
+  {"area": "Surabaya", "price_idr_per_m2": 3000000, "lat": -7.257, "lng": 112.752}
+]

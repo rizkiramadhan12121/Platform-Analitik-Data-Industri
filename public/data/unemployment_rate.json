@@ -1,0 +1,5 @@
+[
+  {"region": "Bekasi", "rate_pct": 7.2, "lat": -6.241, "lng": 106.992},
+  {"region": "Karawang", "rate_pct": 6.0, "lat": -6.322, "lng": 107.300},
+  {"region": "Surabaya", "rate_pct": 5.5, "lat": -7.257, "lng": 112.752}
+]

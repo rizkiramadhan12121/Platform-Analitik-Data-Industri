@@ -1,0 +1,5 @@
+[
+  {"id": "E-001", "name": "Politeknik Manufaktur Bandung", "type": "polytechnic", "lat": -6.912, "lng": 107.603},
+  {"id": "E-002", "name": "SMK Industri Karawang", "type": "vocational", "lat": -6.318, "lng": 107.310},
+  {"id": "E-003", "name": "Universitas Surabaya", "type": "university", "lat": -7.317, "lng": 112.726}
+]

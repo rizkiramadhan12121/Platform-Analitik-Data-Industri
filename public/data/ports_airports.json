@@ -1,0 +1,6 @@
+[
+  {"id": "T-001", "name": "Pelabuhan Tanjung Priok", "type": "port", "lat": -6.107, "lng": 106.880},
+  {"id": "T-002", "name": "Bandara Soekarno-Hatta", "type": "airport", "lat": -6.125, "lng": 106.655},
+  {"id": "T-003", "name": "Pelabuhan Tanjung Perak", "type": "port", "lat": -7.189, "lng": 112.736},
+  {"id": "T-004", "name": "Bandara Juanda", "type": "airport", "lat": -7.379, "lng": 112.787}
+]

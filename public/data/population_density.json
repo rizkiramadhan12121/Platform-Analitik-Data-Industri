@@ -1,0 +1,6 @@
+[
+  {"region": "Bekasi", "density_per_km2": 12400, "lat": -6.241, "lng": 106.992},
+  {"region": "Karawang", "density_per_km2": 1200, "lat": -6.322, "lng": 107.300},
+  {"region": "Surabaya", "density_per_km2": 8900, "lat": -7.257, "lng": 112.752},
+  {"region": "Medan", "density_per_km2": 8600, "lat": 3.595, "lng": 98.672}
+]

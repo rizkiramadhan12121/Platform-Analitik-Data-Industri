@@ -1,0 +1,5 @@
+[
+  {"area": "Bekasi Utara", "risk_index": 0.7, "lat": -6.200, "lng": 106.980},
+  {"area": "Karawang Barat", "risk_index": 0.3, "lat": -6.315, "lng": 107.260},
+  {"area": "Surabaya Pusat", "risk_index": 0.5, "lat": -7.250, "lng": 112.740}
+]
